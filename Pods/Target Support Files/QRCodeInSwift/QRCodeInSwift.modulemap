@@ -1,0 +1,6 @@
+framework module QRCodeInSwift {
+  umbrella header "QRCodeInSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

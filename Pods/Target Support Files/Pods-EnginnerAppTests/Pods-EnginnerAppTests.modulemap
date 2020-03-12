@@ -1,0 +1,6 @@
+framework module Pods_EnginnerAppTests {
+  umbrella header "Pods-EnginnerAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
